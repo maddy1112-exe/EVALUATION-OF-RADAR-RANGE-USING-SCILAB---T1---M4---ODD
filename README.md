@@ -1,4 +1,4 @@
-# EVALUATION-OF-RADAR-RANGE-USING-SCILAB---T1---M4---ODD
+
 ## Aim
 To calculate the maximum range of a radar system using the Radar Range Equation and verify the results through Scilab programming.
 
@@ -10,6 +10,7 @@ To calculate the maximum range of a radar system using the Radar Range Equation 
 
 ## Theory
 The Radar Range Equation is a fundamental formula used in radar system design to determine the maximum range at which a radar can detect a target. 
+<img width="346" height="554" alt="image" src="https://github.com/user-attachments/assets/8d4d0bab-8b23-4a88-acc1-a9f490661b4c" />
 
 ### Mathematical Representation
 The maximum radar range $R_{\max}$ is given by:
@@ -34,7 +35,16 @@ Where:
 4. **Define Radar Range Equation:** Compute the numerator and denominator using Scilab's built-in math functions and `%pi`.
 5. **Calculate Maximum Range:** Evaluate $R_{\max}$ by raising the ratio to the power of $0.25$ (1/4th power).
 6. **Execute and Display Results:** Run the Scilab script (`.sce`) to display the maximum radar range in meters and kilometers.
+<img width="293" height="486" alt="image" src="https://github.com/user-attachments/assets/d1f5e7f2-838c-48d7-b6f6-a432746a27ae" />
+<img width="267" height="488" alt="image" src="https://github.com/user-attachments/assets/89dcd1de-a057-46a9-a478-764deec93634" />
 
 ---
 
 ## MODEL GRAPH
+<img width="809" height="628" alt="image" src="https://github.com/user-attachments/assets/a5e12449-1fcd-44b9-a426-03d89db6c96c" />
+<img width="1237" height="653" alt="image" src="https://github.com/user-attachments/assets/f283b18e-d674-417a-964f-0eb1eba64454" />
+<img width="821" height="627" alt="image" src="https://github.com/user-attachments/assets/93afc474-7cec-463a-8b11-7d4b6392031d" />
+## RESULT
+<img width="300" height="440" alt="image" src="https://github.com/user-attachments/assets/6219c525-6044-455f-8a0b-0cc35823d9f5" />
+
+
